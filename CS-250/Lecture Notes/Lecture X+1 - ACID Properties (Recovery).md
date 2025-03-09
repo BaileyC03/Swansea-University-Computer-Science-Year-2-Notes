@@ -1,0 +1,12 @@
+- Recap: For each operation you do, look down (checking for conflict)
+
+- Transaction log records details of all transactions
+- This log is used in all log-based recovery
+- Logs are created like so:
+	- Before T starts, write "<T start>
+	- Before T executes write(x), a log record <T,X, Vold, Vnew> is made
+		- Vold is the old value of X
+		- Vnew is the new value of X
+	- Writing is performed the creation of the log.
+	- **FINISH THIS WITH WORKED EXAMPLE ON SLIDES**
+	- 

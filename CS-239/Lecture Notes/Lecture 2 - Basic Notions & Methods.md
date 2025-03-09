@@ -1,0 +1,33 @@
+#### Common Security Properties:
+- Confidentiality
+	- Preventing Unauthorised disclosure of information
+- Privacy
+	- Protection of personal data
+- Integrity
+	- Prevent unauthorised modification of information or service
+- Availability
+	- Prevent unauthorised withholding of information or service
+- Access Controls
+	- Prevent unauthorised access to data or resources
+- Authentication
+	- Prevent users from falsifying their identity
+- Authorisation
+	- Prevent users from violating their privileges
+
+#### Security Through the Development Cycle:
+- Requirements and Use Cases
+	- Abuse Cases
+	- Security Requirements
+	- Risk Analysis
+- Design
+	- Risk Analysis (2)
+	- External Review
+- Test Plans
+	- Risk-based security tests
+- Code
+	- Static Analysis
+- Test Results
+	- Risk Analysis (3)
+	- Penetration Testing
+- Field Feedback
+	- Security Breaks
