@@ -1,4 +1,4 @@
-Lec#### COMPONENTS:
+#### COMPONENTS:
 - Canvas Quizzes - 15% total (Between 0.4-1.5%)
 	- Can redo these, get 100%
 - Coursework worth 20%

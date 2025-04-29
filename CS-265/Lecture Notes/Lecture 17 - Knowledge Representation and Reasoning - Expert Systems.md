@@ -1,4 +1,4 @@
-cour#### Expert Systems
+#### Expert Systems
 - Behaves like an expert in some narrow domain.
 	- AKA knowledge based systems (but with more stuff)
 - Typical Examples:

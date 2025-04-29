@@ -1,4 +1,4 @@
-#### Amdahl's Law Important Observations:
+	#### Amdahl's Law Important Observations:
 - What if ts~ ∈ (0, 1]?
 	- Here we are looking to see how adding cores can affect performance given a certain amount of serial part in a programme.
 	![[Pasted image 20250313120118.png]]
